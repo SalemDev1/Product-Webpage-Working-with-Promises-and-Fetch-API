@@ -40,3 +40,6 @@ function displayProducts(products) {
         productContainer.appendChild(productElement);
     });
 }
+
+//4. Handle Errors Gracefully is handled in task 2 seen above^
+
